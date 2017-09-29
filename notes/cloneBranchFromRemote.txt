@@ -1,0 +1,4 @@
+//to Switch to remote branch
+git checkout <branchname>
+//to Create a branch
+git checkout -b <branchname>
